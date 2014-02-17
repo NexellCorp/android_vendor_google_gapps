@@ -102,7 +102,6 @@ PRODUCT_PACKAGES += \
     GoogleEars \
     GoogleEarth \
     GoogleFeedback \
-    GoogleHome \
     GoogleLoginService \
     GooglePartnerSetup \
     GoogleServicesFramework \
@@ -128,4 +127,5 @@ PRODUCT_PACKAGES += \
     Videos \
     Wallet \
     YouTube \
+    #GoogleHome \
 
