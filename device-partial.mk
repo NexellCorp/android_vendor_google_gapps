@@ -122,7 +122,6 @@ PRODUCT_PACKAGES += \
     SetupWizard \
     Street \
     talkback \
-    TimeService \
     Velvet \
     Videos \
     Wallet \
