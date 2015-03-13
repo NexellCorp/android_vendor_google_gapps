@@ -9,7 +9,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/gapps/Gapps/lib/libgoogle_hotword_jni.so:system/lib/libgoogle_hotword_jni.so \
     vendor/google/gapps/Gapps/lib/libgoogle_recognizer_jni_l.so:system/lib/libgoogle_recognizer_jni_l.so \
     vendor/google/gapps/Gapps/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so \
-    vendor/google/gapps/Gapps/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
     vendor/google/gapps/Gapps/lib/libvcdecoder_jni.so:system/lib/libvcdecoder_jni.so \
     vendor/google/gapps/Gapps/priv-app/PrebuiltGmsCore/lib/arm/libAppDataSearch.so:system/priv-app/PrebuiltGmsCore/lib/arm/libAppDataSearch.so \
     vendor/google/gapps/Gapps/priv-app/PrebuiltGmsCore/lib/arm/libconscrypt_gmscore_jni.so:system/priv-app/PrebuiltGmsCore/lib/arm/libconscrypt_gmscore_jni.so \
@@ -27,6 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/gapps/Gapps/app/PlusOne/lib/arm/libphotoeditor_native.so:system/app/PlusOne/lib/arm/libphotoeditor_native.so \
     vendor/google/gapps/Gapps/app/PlusOne/lib/arm/libwebp_android.so:system/app/PlusOne/lib/arm/libwebp_android.so
     #vendor/google/gapps/Gapps/lib/libspeexresampler.so:system/lib/libspeexresampler.so \
+    vendor/google/gapps/Gapps/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
 
 PRODUCT_PACKAGES += \
 	GoogleBackupTransport \
